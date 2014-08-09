@@ -5,8 +5,12 @@ title: Learning Wings Blog
 
 {% include sidebar.html %}
 
-<div class="posts">
-  {% for page in site.posts %}
-    {% include post.html %}
-  {% endfor %}
+<div class="posts-wrapper">
+  <div class="posts">
+    {% for page in site.posts %}
+      {% include post.html %}
+    {% endfor %}
+  </div>
+
+  {% include footer.html %}
 </div>

@@ -1,11 +1,15 @@
 $serif: "Playfair Display", times, serif;
 
-.posts {
+.posts-wrapper {
   position: absolute;
   float: right;
   width: 58%;
-  @include breakpoint(goldilocks) { width: 100%; };
   right: 12%;
+
+  @include breakpoint(goldilocks) { 
+    width: 100%;
+    right: 0;
+  };
 }
 
 article {
@@ -14,6 +18,7 @@ article {
   font-weight: 400;
   line-height: 28px;
   text-align: left;
+  @include breakpoint(goldilocks) { margin: 0 8%; };
 
   &:after {
     display: block;
@@ -36,6 +41,19 @@ article {
       color: #AA3939;
       @include transition(.2s color ease-in-out);
       &:hover { color: #582A72; }
+    }
+  }
+
+  ul, ol {
+    padding-left: 8%;
+    padding-bottom: 20px;
+  }
+
+  ol { list-style-type: decimal; }
+
+  ul li {
+    &:before {
+      content: "\2022\00A0";
     }
   }
 
@@ -73,7 +91,18 @@ article {
     font-style: italic;
     padding-left: 15px;
     font-size: 150%;
+    line-height: 115%;
     border-left: 3px solid #444;
     margin: 10px 0;
+  }
+
+  cite {
+    color: #444;
+    font-size: 115%;
+    padding-left: 20px;
+
+    &:before {
+      content: "— ";
+    }
   }
 }

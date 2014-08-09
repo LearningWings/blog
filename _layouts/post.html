@@ -4,7 +4,7 @@ layout: default
 
 {% include sidebar.html %}
 
-<div class="posts">
+<div class="posts-wrapper">
   <article>
     <div class="meta">
       <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
@@ -13,4 +13,6 @@ layout: default
 
     {{ content }}
   </article>
+
+  {% include footer.html %}
 </div>
