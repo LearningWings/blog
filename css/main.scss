@@ -1,0 +1,19 @@
+---
+---
+
+@import "reset";
+@import "gridism";
+@import "breakpoints";
+@import "bourbon";
+@import "fonts";
+
+$text-color: #292929;
+$serif: "Playfair Display", times, serif;
+
+html, body {
+  color: $text-color;
+  background-color: #fff;
+}
+
+@import "sidebar";
+@import "post";

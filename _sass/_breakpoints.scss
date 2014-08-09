@@ -1,0 +1,21 @@
+// responsiveness
+@mixin breakpoint($point) {
+  @if $point == morbidly-obese-bear {
+    @media (min-width: 1601px) { @content; }
+  }
+  @if $point == papa-bear {
+    @media (max-width: 1600px) { @content; }
+  }
+  @else if $point == mama-bear {
+    @media (max-width: 1250px) { @content; }
+  }
+  @else if $point == goldilocks {
+    @media (max-width: 768px) { @content; }
+  }
+  @else if $point == baby-bear {
+    @media (max-width: 650px)  { @content; }
+  }
+  @else if $point == really-baby-bear {
+    @media (max-width: 350px) { @content; }
+  }
+}

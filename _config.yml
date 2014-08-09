@@ -1,0 +1,7 @@
+title: Learning Wings Blog
+production_url: http://blog.learningwings.co/
+
+# assets
+sass:
+  style: :compressed
+  sass_dir: _sass
