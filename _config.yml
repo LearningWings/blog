@@ -9,3 +9,8 @@ markdown: kramdown
 sass:
   style: :compressed
   sass_dir: _sass
+
+# homepage stuff
+author: Lori Herrick
+author_image: http://placekitten.com/g/500/500
+tagline: What a tagline will go here. Something to tell about who the author is as a person. The audience soooo cares. This is a little smaller than the other text.
