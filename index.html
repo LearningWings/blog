@@ -9,6 +9,10 @@ title: Learning Wings Blog
   <div class="posts">
     {% for page in site.posts %}
       {% include post.html %}
+
+      {% unless forloop.last %}
+        <div class="divider"></div>
+      {% endunless %}
     {% endfor %}
   </div>
 

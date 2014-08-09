@@ -12,6 +12,14 @@ $serif: "Playfair Display", times, serif;
   };
 }
 
+.divider:after {
+  display: block;
+  font-size: 25px;
+  text-align: center;
+  content: "\2022\00A0\2022\00A0\2022";
+  padding: 35px 0 25px 0;
+}
+
 article {
   font-family: $serif;
   font-size: 20px;
@@ -19,13 +27,6 @@ article {
   line-height: 28px;
   text-align: left;
   @include breakpoint(goldilocks) { margin: 0 8%; };
-
-  &:after {
-    display: block;
-    text-align: center;
-    content: "\2022\00A0\2022\00A0\2022";
-    padding: 35px 0 25px 0;
-  }
 
   .meta {
     margin-top: 18px;
