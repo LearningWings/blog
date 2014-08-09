@@ -43,6 +43,9 @@ article {
       @include transition(.2s color ease-in-out);
       &:hover { color: #582A72; }
     }
+
+    strong { font-weight: 700; }
+    em { font-style: italic; }
   }
 
   ul, ol {
@@ -61,7 +64,7 @@ article {
   h1 {
     font-family: $serif;
     font-size: 90px;
-    @include breakpoint(baby-bear) { font-size: 75px };
+    @include breakpoint(baby-bear) { font-size: 70px };
     font-weight: 400;
     text-align: center;
     line-height: 110%;

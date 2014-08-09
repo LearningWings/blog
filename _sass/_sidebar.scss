@@ -32,7 +32,8 @@ aside {
   }
 
   p {
-    font-family: $serif;
+    font-family: 'Roboto', helvetica, arial;
+    font-weight: 300;
     margin: 5px 55px;
     font-size: 19px;
     line-height: 120%;
@@ -44,4 +45,9 @@ footer {
   @include breakpoint(goldilocks) {
     display: block !important;
   }
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
 }
