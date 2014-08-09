@@ -29,6 +29,14 @@ article {
 
   p {
     margin-bottom: 25px;
+
+    a {
+      text-decoration: none;
+      border-bottom: solid 1px $text-color;
+      color: #AA3939;
+      @include transition(.2s color ease-in-out);
+      &:hover { color: #582A72; }
+    }
   }
 
   h1 {

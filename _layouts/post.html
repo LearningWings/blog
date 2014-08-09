@@ -1,6 +1,16 @@
 ---
 layout: default
-title: Posts
 ---
 
-{% include post.html %}
+{% include sidebar.html %}
+
+<div class="posts">
+  <article>
+    <div class="meta">
+      <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+      <div class="date">Written on <time datetime="{{ page.date }}">{{  page.date | date: "%B %d, %Y" }}</time>.</div>
+    </div>
+
+    {{ content }}
+  </article>
+</div>

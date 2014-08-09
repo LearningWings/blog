@@ -1,5 +1,6 @@
 title: Learning Wings Blog
 production_url: http://blog.learningwings.co/
+permalink: pretty
 
 # assets
 sass:
