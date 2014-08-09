@@ -40,12 +40,12 @@ aside {
   }
 }
 
-footer {
-  display: none;
-  @include breakpoint(goldilocks) {
-    display: block !important;
-  }
+.show-on-mobiles {
+  display: none !important;
+  @include breakpoint(goldilocks) { display: block !important; };
+}
 
+footer {
   display: block;
   margin-left: auto;
   margin-right: auto;
