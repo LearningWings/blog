@@ -32,11 +32,11 @@ aside {
   }
 
   p {
-    font-family: 'Roboto', helvetica, arial;
+    font-family: $serif;
     font-weight: 300;
-    margin: 5px 55px;
-    font-size: 19px;
-    line-height: 120%;
+    margin: 5px 10%;
+    font-size: 1rem;
+    line-height: 1.75;
   }
 }
 
