@@ -1,6 +1,6 @@
 title: Hack Special Education
 production_url: http://hackspecialeducation.com/
-permalink: pretty
+permalink: /:title/
 
 # meta
 markdown: kramdown
@@ -13,4 +13,4 @@ sass:
 # homepage stuff
 author: Lori Herrick
 author_image: /images/profile.jpg
-tagline: A certified intervention specialist, and an artist at heart, with 16 years experience helping kids with disabilities. I have a Bachelor's degree in fine arts and a Master's degree in education. More importantly, a passion for finding creative ways to meet the unique needs of struggling students.  
+tagline: A certified intervention specialist, and an artist at heart, with 16 years experience helping kids with disabilities. I have a Bachelor's degree in fine arts and a Master's degree in education. But more importantly, I have a passion for finding creative ways to meet the unique needs of struggling students.
