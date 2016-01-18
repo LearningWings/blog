@@ -28,7 +28,9 @@ The following is a list of pre-requisites students must have before being able t
 
 5. The student must learn the meaning and symbol for the word plus.
 
-6. The student must learn the meaning and symbol for the words equal and total. 
+6. The student must learn the meaning and symbol for the words equal and total.
+
+Students who are missing any of the above skills will not be able to progress to the level expected of them in the second grade or beyond.  
 
 
 
