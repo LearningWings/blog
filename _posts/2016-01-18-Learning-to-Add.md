@@ -20,7 +20,7 @@ The following is a list of pre-requisites students must have before being able t
 
 1. The student must understand one to one correspondence, recognizing number values. For instance, if given counting cubes, the student will be able to place the equivelant number of cubes next to the written number.
 
-2. The student must be able to count to 20.
+2. The student must be able to consistently count to 20.
 
 3. The student must be able to write numbers up to 20. (They may use a model as    a support)
 
