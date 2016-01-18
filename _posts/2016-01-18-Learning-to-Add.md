@@ -18,3 +18,17 @@ A child in this predicament is often doing the best he can. These Students are a
 
 The following is a list of pre-requisites students must have before being able to learn to add and subtract basic numbers 1-10 in a classroom setting:
 
+1. The student must understand one to one correspondence, recognizing what each number stands for. For instance, if given counting cubes, the student will be able to place the equivelant number of cubes next to the written number.
+
+2. The student must be able to count to 20.
+
+3. The student must be able to write numbers up to 20. (They may use a model as    a support)
+
+4. The student must be able to recognize and read numbers.
+
+5. The student must learn the meaning and symbol for the word plus.
+
+6. The student must learn the meaning and symbol for the words equal and total. 
+
+
+
