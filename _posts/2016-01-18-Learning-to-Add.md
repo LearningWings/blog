@@ -36,9 +36,9 @@ The following process will allow you to evaluate the mastery level of the first 
 
 Next, ask to student to write a random number from 0-20. Repeat until you have given all 20 numbers, noting any mistakes. (skill 3)
 
-Once you gather this information, you will have a starting point. Trouble shoot and strengthen any and all areas that the student is weak in before continuing on the the concept of addition.    
+Once you gather this information, you will have a starting point. Trouble shoot and strengthen any and all areas that the student is weak in before continuing on to skills 5 and 6.     
 
-Depending upon the student, this process may takes days, weeks or even months. It is important to focus intensely on improving these skills even though the student's peers are moving ahead onto higher level skills.  Once the student is at least 80% proficient at the first five skills listed above, it is time to move forward with number six, which will lead into the process of learning addition.
+Depending upon the student, this process may takes days, weeks or even months. It is important to focus intensely on improving these skills even though the student's peers are moving ahead onto higher level skills.  Once the student is at least 80% proficient at the first five skills listed above, it is time to move forward with skill numbers five and six, which will then lead into the process of learning addition.
 
 To be continued!
 
