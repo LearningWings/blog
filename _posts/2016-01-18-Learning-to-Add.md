@@ -38,7 +38,7 @@ Give the student a group of counting cubes or other small objects. Write a numbe
 
 Once you gather this information, you will have a starting point. Trouble shoot and strengthen any and all areas that the student is weak in before continuing on to skills 5 and 6.     
 
-Depending upon the student, this process may takes days, weeks or even months. It is important to focus intensely on improving these skills even though the student's peers are moving ahead onto higher level skills.  Once the student is at least 80% proficient at the first five skills listed above, it is time to move forward with skill numbers five and six, which will then lead into the process of learning addition.
+Depending upon the student, this process may takes days, weeks or even months. It is important to focus intensely on improving these skills even though the student's peers are moving ahead onto higher level skills. Once the student is at least 80% proficient at the first five skills listed above, it is time to move forward with skill numbers five and six, which will then lead into the process of learning addition.
 
 To be continued!
 
