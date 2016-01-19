@@ -32,7 +32,12 @@ The following is a list of pre-requisites students must have before being able t
 
 Students who are missing any of the above skills will not be able to progress to the level expected of them in the second grade or beyond. Therefore, it is essential that these skills are remediated, in a way that will enable the student to gain and retain information.  Using a combination of direct instuction, a multi-sensory approach, repetition, and working with the child individually is often beneficial in these types of situations.
 
-Getting Started: 
+Getting Started:  Give the student a group of counting cubes or other small objects. Write a number and ask the student to read the number. Then ask him to count out that may cubes and place them next the number. Repeat until you have checked each number 0-20.
 
+During this process you will observe how proficient the student is at counting and number recognition.
 
+Once you gather this information, you will have a starting point. Trouble shoot and strengthen any and all areas that the student is weak in before continuing on the the concept of addition.    
 
+Depending upon the student, this process may takes days, weeks or even months. It is important to focus intensely on improving these skills even though the student's peers are moving ahead onto higher level skills.  Once the student is at least 80% proficient at the six skills listed above, it is time to move forward with teaching addition.
+
+Once the student is ready to move on to addition it is time to teach the meaning and process of adding numbers. To be continued!  
