@@ -32,9 +32,9 @@ The following is a list of pre-requisites students must have before being able t
 
 Students who are missing any of the above skills will not be able to progress to the level expected of them in the second grade or beyond. Therefore, it is essential that these skills are remediated, in a way that will enable the student to gain and retain information.  Using a combination of direct instuction, a multi-sensory approach, repetition, and working with the child individually is often beneficial in these types of situations. If the student is older, easily distracted, or self-conscious, this is best accomplished in a more private area, away from the classroom environment. For teachers this can be especially challenging, yet still often possible with some adjustments and creativity in the daily schedule. I know of one teacher works with students one on one while the rest of the class is busy in the computer lab each day.     
 
-The following process will allow you to evaluate the mastery level of the first four skills:  Give the student a group of counting cubes or other small objects. Write a number and ask the student to read the number. (skill 4) Then ask him to count out that may cubes and place them next the number. Repeat until you have checked each number 0-20. (skills 1 and 2)
+The following process will allow you to evaluate the mastery level of the first four skills:  
 
-Next, ask to student to write a random number from 0-20. Repeat until you have given all 20 numbers, noting any mistakes. (skill 3)
+Give the student a group of counting cubes or other small objects. Write a number and ask the student to read the number. (skill 4) Then ask him to count out that may cubes and place them next the number. Repeat until you have checked each number 0-20. (skills 1 and 2) Next, ask to student to write a random number from 0-20. Repeat until you have given all 20 numbers, noting any mistakes. (skill 3)
 
 Once you gather this information, you will have a starting point. Trouble shoot and strengthen any and all areas that the student is weak in before continuing on to skills 5 and 6.     
 
