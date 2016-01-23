@@ -8,7 +8,7 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 
 ## Learning How to Add and Subtract
 
-### Math Computation can be Challenging for Children with Special Needs
+### Math Computation can be Challenging for some Children 
 
 Many second grade students enjoy practicing basic addition and subtraction facts, whether the problems are written on a sheet of paper, on flashcards or through playing math games. However, for some students, practicing math facts can be anything but fun. Each year, I assist many students in the primary grades who struggle with math. Students need to have a solid understanding of addition and subtraction by the beginning of second grade and learn to apply basic computational skills to more advanced processess, such as adding and subtracting multi-digit numbers, including regrouping. When unable to learn these more advanced grade level math concepts, it sets the stage for frustration and shut down, causing the learning gap to increase each school year. Appropriate inteventions must be initiated  as soon as it becomes apparent that a student is struggling, to prevent this type of situation from occuring.
 
